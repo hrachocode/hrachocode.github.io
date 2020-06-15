@@ -8,10 +8,10 @@ const questions = [
             'wrong3': `Не оштрафовал, а объявил выговор`
         },
         descriptions: {
-            0: `<span class="for-bold">Верно.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="blanc">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`,
-            1: `<span class="for-bold">Нет, немного больше: 6,3 млн рублей.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="blanc">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`,
-            2: `<span class="for-bold">Нет, гораздо меньше: 6,3 млн рублей.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="blanc">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`,
-            3: `<span class="for-bold">Нет, всё же оштрафовал на 6,3 млн рублей.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="blanc">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`
+            0: `<span class="for-bold">Верно.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="_blank">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`,
+            1: `<span class="for-bold">Нет, немного больше: 6,3 млн рублей.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="_blank">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`,
+            2: `<span class="for-bold">Нет, гораздо меньше: 6,3 млн рублей.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="_blank">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`,
+            3: `<span class="for-bold">Нет, всё же оштрафовал на 6,3 млн рублей.</span> Проверка <a href='https://vc.ru/39208-rospotrebnadzor-oshtrafoval-produktovuyu-set-vkusvill-na-6-3-mln-rubley' target="_blank">обнаружила</a> просроченные продукты, но представители сети утверждают, что большая часть замечаний не коснулась их качества.`
         }
     },
     {
@@ -23,10 +23,10 @@ const questions = [
             'wrong3': `Её никто не покупал`
         },
         descriptions: {
-            0: `Да, бутылка благодаря своей форме призмы фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="blanc">воспламенял</a> окружающие предметы.`,
-            1: `Нет, дело в её форме призмы — она фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="blanc">воспламенял</a> окружающие предметы.`,
-            2: `Бутылка была довольно устойчивая, но благодаря своей форме призмы фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="blanc"> воспламенял </a> окружающие предметы.`,
-            3: `Её покупали, но бутылка благодаря своей форме призмы фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="blanc"> воспламенял </a> окружающие предметы..`
+            0: `Да, бутылка благодаря своей форме призмы фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="_blank">воспламенял</a> окружающие предметы.`,
+            1: `Нет, дело в её форме призмы — она фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="_blank">воспламенял</a> окружающие предметы.`,
+            2: `Бутылка была довольно устойчивая, но благодаря своей форме призмы фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="_blank"> воспламенял </a> окружающие предметы.`,
+            3: `Её покупали, но бутылка благодаря своей форме призмы фокусировала свет так, что он <a href='https://vc.ru/39121-proizvoditel-vody-svyatoy-istochnik-vypustil-neozhidanno-ogneopasnuyu-butylku-v-forme-myacha' target="_blank"> воспламенял </a> окружающие предметы..`
         }
     },
     {
@@ -38,10 +38,10 @@ const questions = [
             'wrong3': `Ничего не лишились, но получили иски за нарушение коммерческой тайны`
         },
         descriptions: {
-            0: `Ян Кум и Брайан Эктон действительно могли получить акции на эту сумму, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="blanc"> конфликта </a> с руководством.`,
-            1: `Ян Кум и Брайан Эктон могли получить акции на $1,3 млрд, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="blanc"> конфликта </a> с руководством, но штрафы никто не выплачивал.`,
-            2: `Ян Кум и Брайан Эктон могли получить акции на $1,3 млрд, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="blanc"> конфликта </a> с руководством.`,
-            3: `Ян Кум и Брайан Эктон могли получить акции на $1,3 млрд, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="blanc"> конфликта </a> с руководством — но коммерческую тайну пока никто не нарушил.`
+            0: `Ян Кум и Брайан Эктон действительно могли получить акции на эту сумму, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="_blank"> конфликта </a> с руководством.`,
+            1: `Ян Кум и Брайан Эктон могли получить акции на $1,3 млрд, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="_blank"> конфликта </a> с руководством, но штрафы никто не выплачивал.`,
+            2: `Ян Кум и Брайан Эктон могли получить акции на $1,3 млрд, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="_blank"> конфликта </a> с руководством.`,
+            3: `Ян Кум и Брайан Эктон могли получить акции на $1,3 млрд, если бы проработали в Facebook до ноября 2018 года. Они ушли досрочно из-за <a href='https://vc.ru/39509-wsj-osnovateli-whatsapp-lishilis-akciy-facebook-na-1-3-mlrd-posle-uhoda-iz-kompanii' target="_blank"> конфликта </a> с руководством — но коммерческую тайну пока никто не нарушил.`
         }
     },
     {
@@ -53,10 +53,10 @@ const questions = [
             'wrong3': `Выложила персональные данные клиентов — телефоны, адреса, почты — в открытый доступ`
         },
         descriptions: {
-            0: `Компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="blanc"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После скандала она переименовала услугу в «идеальный русский язык».`,
-            1: `Было пару раз, <a href='https://twitter.com/foolsbridge/status/986935782287003649' target="blanc"> но не в июне </a>. На самом деле компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="blanc"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После она переименовала услугу в «идеальный русский язык».`,
-            2: `О таком случае не сообщалось, но зато компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="blanc"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После скандала она переименовала услугу в «идеальный русский язык».`,
-            3: `О таком случае не сообщалось, но зато компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="blanc"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После скандала она переименовала услугу в «идеальный русский язык».`
+            0: `Компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="_blank"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После скандала она переименовала услугу в «идеальный русский язык».`,
+            1: `Было пару раз, <a href='https://twitter.com/foolsbridge/status/986935782287003649' target="_blank"> но не в июне </a>. На самом деле компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="_blank"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После она переименовала услугу в «идеальный русский язык».`,
+            2: `О таком случае не сообщалось, но зато компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="_blank"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После скандала она переименовала услугу в «идеальный русский язык».`,
+            3: `О таком случае не сообщалось, но зато компания дала клиентам <a href='https://vc.ru/39346-gruzovaya-kompaniya-gazelkin-predlozhila-klientam-voditeley-slavyan-za-dopolnitelnuyu-platu' target="_blank"> возможность </a> выбрать водителя славянской внешности и российского гражданства. После скандала она переименовала услугу в «идеальный русский язык».`
         }
     },
     {
@@ -68,10 +68,10 @@ const questions = [
             'wrong3': `Никто не собирается повышать НДС, зато повысят НДФЛ`
         },
         descriptions: {
-            0: `Да, НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="blanc"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="blanc"> вот чем </a> это грозит`,
-            1: `Нет, всё же именно НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="blanc"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="blanc"> вот чем </a> это грозит`,
-            2: `Нет, НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="blanc"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="blanc"> вот чем </a> это грозит`,
-            3: `Нет, всё же именно НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="blanc"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="blanc"> вот чем </a> это грозит`
+            0: `Да, НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="_blank"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="_blank"> вот чем </a> это грозит`,
+            1: `Нет, всё же именно НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="_blank"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="_blank"> вот чем </a> это грозит`,
+            2: `Нет, НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="_blank"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="_blank"> вот чем </a> это грозит`,
+            3: `Нет, всё же именно НДС <a href='https://vc.ru/40001-medvedev-anonsiroval-povyshenie-nds-do-20' target="_blank"> собираются </a> повысить с 18% до 20%. Кстати, <a href='https://vc.ru/38891-nds-20' target="_blank"> вот чем </a> это грозит`
         }
     },
     {
@@ -83,10 +83,10 @@ const questions = [
             'wrong3': `Отправится в кругосветное путешествие`
         },
         descriptions: {
-            0: `<a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="blanc"> Верно </a>`,
-            1: `Это вполне возможно, но сперва он <a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="blanc"> планирует </a> заниматься проектами в сфере цифровой медицины.`,
-            2: `Нет, он <a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="blanc"> планирует </a> заниматься собственными проектами в сфере цифровой медицины.`,
-            3: `Он <a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="blanc"> планирует </a> заниматься собственными проектами в сфере цифровой медицины.`
+            0: `<a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="_blank"> Верно </a>`,
+            1: `Это вполне возможно, но сперва он <a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="_blank"> планирует </a> заниматься проектами в сфере цифровой медицины.`,
+            2: `Нет, он <a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="_blank"> планирует </a> заниматься собственными проектами в сфере цифровой медицины.`,
+            3: `Он <a href='https://vc.ru/39908-putin-osvobodil-germana-klimenko-ot-dolzhnosti-sovetnika-prezidenta-po-internetu' target="_blank"> планирует </a> заниматься собственными проектами в сфере цифровой медицины.`
         }
     },
     {
@@ -98,10 +98,10 @@ const questions = [
             'wrong3': `Создание визиток за 50 тысяч рублей`
         },
         descriptions: {
-            0: `Да, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="blanc"> обязан </a> принять первый предложенный вариант.`,
-            1: `Речь об экспресс-дизайне предметов, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="blanc"> обязан </a> принять первый предложенный вариант.`,
-            2: `Речь об экспресс-дизайне предметов, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="blanc"> обязан </a> принять первый предложенный вариант.`,
-            3: `Речь об экспресс-дизайне предметов, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="blanc"> обязан </a> принять первый предложенный вариант`
+            0: `Да, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="_blank"> обязан </a> принять первый предложенный вариант.`,
+            1: `Речь об экспресс-дизайне предметов, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="_blank"> обязан </a> принять первый предложенный вариант.`,
+            2: `Речь об экспресс-дизайне предметов, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="_blank"> обязан </a> принять первый предложенный вариант.`,
+            3: `Речь об экспресс-дизайне предметов, и заказчик точно так же <a href='https://vc.ru/39869-studiya-artemiya-lebedeva-predlozhila-startapam-ekspress-dizayn-lyubogo-predmeta-za-300-tysyach-rubley' target="_blank"> обязан </a> принять первый предложенный вариант`
         }
     },
     {
@@ -113,10 +113,10 @@ const questions = [
             'wrong3': `Предприниматели должны быть звёздами и элитой общества`
         },
         descriptions: {
-            0: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="blanc"> интервью </a>.`,
-            1: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="blanc"> интервью </a>.`,
-            2: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="blanc"> интервью </a>.`,
-            3: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="blanc"> интервью </a>.`
+            0: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="_blank"> интервью </a>.`,
+            1: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="_blank"> интервью </a>.`,
+            2: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="_blank"> интервью </a>.`,
+            3: `Вопрос был с подвохом: все эти фразы прозвучали в <a href='https://vc.ru/38748-eto-stydno-nanimat-lyudey-kotorymi-nuzhno-upravlyat' target="_blank"> интервью </a>.`
         }
     },
 ];
@@ -156,19 +156,21 @@ const checkAnswer = () => {
         })
 }
 
-const findQuestionAnswer = (question, currentQuestion) => {
+const findQuestionAnswer = (answer, currentQuestion) => {
     const finder = questions.map((ques, index) => {
-        if (ques.answers.right === question && currentQuestion === index + 1) {
+        if (ques.answers.right === answer && currentQuestion === index + 1) {
             return {
                 isRight: true,
-                title: question,
-                desc: ques.descriptions[`${Object.values(ques.answers).indexOf(question)}`]
+                question: ques.question,
+                title: answer,
+                desc: ques.descriptions[`${Object.values(ques.answers).indexOf(answer)}`]
             }
-        } else if (currentQuestion === index + 1 && Object.values(ques.answers).includes(question)) {
+        } else if (currentQuestion === index + 1 && Object.values(ques.answers).includes(answer)) {
             return {
                 isRight: false,
-                title: question,
-                desc: ques.descriptions[`${Object.values(ques.answers).indexOf(question)}`]
+                question: ques.question,
+                title: answer,
+                desc: ques.descriptions[`${Object.values(ques.answers).indexOf(answer)}`]
             }
         }
     })
@@ -185,6 +187,7 @@ const setAnswerHTML = answer => {
     document.querySelector("#second-block").style.display = "none";
     document.querySelector("#third-block").style.display = "flex";
     document.querySelector('.answer-block p.text-2').innerHTML = answer.desc;
+    document.querySelector('.answer-block .main-h1-2').innerHTML = answer.question;
     document.querySelector('.answer-block p.main-p-2').innerHTML = answer.title;
     document.querySelector('.answer-block p.main-p-2').style.color = answer.isRight ? '#43a457' : '#E25A76';
     document.querySelector('.answer-block p.main-p-2').style.borderColor = answer.isRight ? '#43a457' : '#E25A76';
@@ -246,7 +249,6 @@ const showResult = () => {
             break;
     }
 }
-
 
 const updateAnswers = answers => {
     document.querySelectorAll('.answers-block p').forEach((elem, index) => elem.textContent = Object.values(answers)[index])
